@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ganiu Ibrahim Olalaken @Oluwatobi17
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Web Development projects that require Reactjs
+- 🌱 I’m React Frontend Web Developer
+- 💞️ I’m looking to collaborate on Web Development projects that require Reactjs, Nextjs
+- Portfolio @ https://ganiuportfolio.vercel.app/
 - 📫 How to reach me via Whatsapp: https://wa.me/+2348185502574, Email: ganiuibrahim3000@gmail.com
 
 <!---
