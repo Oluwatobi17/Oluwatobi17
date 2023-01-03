@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganiu Ibrahim Olalaken @Oluwatobi17
 - 👀 I’m interested in Technology
-- 🌱 I’m React Frontend Web Developer and MQL4 programmer
+- 🌱 I’m React Frontend Web Developer and Forex Bot (MQL4/5) programmer
 - 💞️ I’m looking to collaborate on Web Development projects that requires Reactjs, Nextjs or mql4
 - Portfolio @ https://ganiuportfolio.vercel.app/
 - 📫 How to reach me via Whatsapp: https://wa.me/+2348185502574, Email: ganiuibrahim3000@gmail.com
